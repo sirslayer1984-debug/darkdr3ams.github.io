@@ -1,0 +1,9 @@
+# Celestial Legion Sovereign XRPL Verification Data
+
+[[ACCOUNTS]]
+address = "radUa49ojcUsJaXDjSZQ7yaRhdCNMcExex"
+description = "Official Minting & Issuing Account for Celestial Legion NFTs"
+
+[[PRINCIPALS]]
+name = "Darkdr3ams"
+description = "Sovereign Creator of Celestial Legion"
